@@ -16,3 +16,7 @@ Name: Muhammad Rigi Yuda Syahrial
 Student Number: 20230040116
 
 Study Program: Informatics Engineering
+
+Name : Dikri Ali
+SN : 20230040064
+SP : Informatic Engineering
