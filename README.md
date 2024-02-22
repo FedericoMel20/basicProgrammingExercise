@@ -20,3 +20,7 @@ Study Program: Informatics Engineering
 Name : Dikri Ali
 SN : 20230040064
 SP : Informatic Engineering
+
+Name: ABEER LABEB ALI AHMED
+SN: 20230040299
+SP:Informatics Engineering
