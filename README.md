@@ -1,6 +1,6 @@
 # basicProgrammingExercise
-Name: Mambuna Bojang
-Student Number: 20230040288
+/nName: Mambuna Bojang
+/nStudent Number: 20230040288
 Study Program: Informatics Engineering
 
 collaborate with: 
