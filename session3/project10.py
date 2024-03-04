@@ -1,3 +1,4 @@
+#Take a user's email address as input and extract the domain name. Print the domain name.
 def extract_domain(email):
     try:
         # Split the email address by '@' symbol
